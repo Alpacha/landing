@@ -1,0 +1,36 @@
+body {
+  font-size: 20px;
+  font-family: "RobotoCondensed", Times, sans-serif;
+  min-width: 320px;
+}
+.clearfix:before,
+.clearfix:after{
+  content: " ";
+  display: table;
+}
+.clearfix:after {clear: both;}
+
+.container {
+  width: 1366px;
+  margin: 0 auto;
+}
+#header {
+position: absolute;
+top: 20px;
+left: 0;
+right: 0;
+padding: 20px 0;
+width: 100%;
+}
+.nav {
+  float: left;
+}
+#clear {
+  margin: 0 auto;
+  height: 500px;
+  background: #555 url(../img/bg-landscape.jpg) no-repeat center;
+-webkit- background-size: cover;
+   -moz- background-size: cover;
+     -o- background-size: cover;
+         background-size: cover;
+}
