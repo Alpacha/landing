@@ -1,0 +1,18 @@
+@font-face {
+  font-family : "OpenSans-BoldItalic";
+  src: url("../fonts/OpenSans/OpenSans-BoldItalic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-Bold.ttf") format("truetype");
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-BoldItalic.ttf") format("truetype");
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-Italic.ttf") format("truetype");
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-Light.ttf") format("truetype");
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-LightItalic.ttf") format("truetype");
+  src: url("/fonts/RobotoCondensed/RobotoCondensed-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}

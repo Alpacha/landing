@@ -1,0 +1,11 @@
+html{height: 100%;}
+body {
+  font: 30px/18px "RobotoCondensed", Times, sans-serif;
+  min-width: 320px;
+  position: relative;
+}
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+.header
